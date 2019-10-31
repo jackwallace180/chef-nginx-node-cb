@@ -35,4 +35,4 @@ Are provisioning script.
     $kitchen test
 
 
-    test 3
+    test 4
